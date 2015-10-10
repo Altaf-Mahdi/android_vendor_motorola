@@ -44,6 +44,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/lib/hw/sound_trigger.primary.shamu.so:system/lib/hw/sound_trigger.primary.shamu.so \
     vendor/motorola/shamu/proprietary/lib/libflacencoder.so:system/lib/libflacencoder.so \
     vendor/motorola/shamu/proprietary/lib/libmotaudioutils.so:system/lib/libmotaudioutils.so \
+    vendor/motorola/shamu/proprietary/lib/libsysutils_local.so:system/lib/libsysutils_local.so \
     vendor/motorola/shamu/proprietary/lib/soundfx/libfmas.so:system/lib/soundfx/libfmas.so \
     vendor/motorola/shamu/proprietary/lib/soundfx/libspeakerbundle.so:system/lib/soundfx/libspeakerbundle.so \
     vendor/motorola/shamu/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
