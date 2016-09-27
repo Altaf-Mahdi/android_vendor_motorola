@@ -415,8 +415,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/vendor/moto/audiomonitor/sensory/svsid_triggerogn1_itit_1_0.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn1_itit_1_0.raw \
     vendor/motorola/shamu/proprietary/vendor/moto/audiomonitor/sensory/svsid_triggerogn_enus_3_1.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_enus_3_1.raw \
     vendor/motorola/shamu/proprietary/vendor/moto/audiomonitor/sensory/svsid_triggerogn_frfr_1_0.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_frfr_1_0.raw \
-    vendor/motorola/shamu/proprietary/vendor/moto/audiomonitor/sensory/svsid_triggerogn_ptbr_2_1.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_ptbr_2_1.raw \
-    vendor/motorola/shamu/proprietary/xbin/wlutil:system/xbin/wlutil
+    vendor/motorola/shamu/proprietary/vendor/moto/audiomonitor/sensory/svsid_triggerogn_ptbr_2_1.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_ptbr_2_1.raw
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
